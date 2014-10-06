@@ -9,3 +9,6 @@ C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\obj\Debug\ConsoleCoE
 C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.pdb
 C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.exe
 C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.pdb
+C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.csprojResolveAssemblyReference.cache
+C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\bin\Debug\ConsoleCoElaboration.exe
+C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\bin\Debug\ConsoleCoElaboration.pdb
