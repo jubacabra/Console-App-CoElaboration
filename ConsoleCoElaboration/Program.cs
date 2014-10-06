@@ -19,7 +19,12 @@ namespace ConsoleCoElaboration
         /// <param name="args"></param>
         static void Main(string[] args)
         {
-            IsPalindrome()
+            string userİnput = Console.ReadLine();
+            if (IsPalindrome(userİnput))
+            {
+                Console.WriteLine("yes");    
+                
+            }        
         }
 
         /// <summary>
@@ -30,7 +35,12 @@ namespace ConsoleCoElaboration
         /// <returns></returns>
         private static bool IsPalindrome(String text)
         {
-
+            string first = text.Substring(0, text.Length / 2);
+            char[] arr = text.ToCharArray();
+            Array.Reverse(arr);
+            string temp = new string(arr);
+            string second = temp.Substring(0, temp.Length / 2);
+            return first.Equals(second);
         }
 
         /// <summary>
@@ -40,18 +50,22 @@ namespace ConsoleCoElaboration
         /// <returns></returns>
         private static bool ContainsOnlyLetters(String text)
         {
+            return false;
         }
 
         private static bool ConstainsOnlyDigits(String text)
         {
+            return false;
         }
 
         private static bool ConvertToBinaryNumbers(int input)
         {
+            return false;
         }
 
         private static string ConvertToRomanNumbers(String text)
         {
+            return null;
         }
     }
 
