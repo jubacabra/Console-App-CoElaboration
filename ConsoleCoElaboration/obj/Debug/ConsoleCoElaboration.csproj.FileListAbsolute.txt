@@ -7,3 +7,5 @@ C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\bin\Debug\ConsoleCoE
 C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\bin\Debug\ConsoleCoElaboration.pdb
 C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.exe
 C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.pdb
+C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.exe
+C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.pdb

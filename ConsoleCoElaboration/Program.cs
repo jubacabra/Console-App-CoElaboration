@@ -22,9 +22,13 @@ namespace ConsoleCoElaboration
             string userİnput = Console.ReadLine();
             if (IsPalindrome(userİnput))
             {
-                Console.WriteLine("yes");    
+                Console.WriteLine("yes it's a palindrome");    
                 
-            }        
+            }
+            else
+            {
+                Console.WriteLine("No it's not a palindrome");
+            }
         }
 
         /// <summary>
