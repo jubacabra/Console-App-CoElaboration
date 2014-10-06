@@ -29,6 +29,14 @@ namespace ConsoleCoElaboration
             {
                 Console.WriteLine("No it's not a palindrome");
             }
+            
+            foreach (char value in userİnput)
+            {
+                bool digit = char.IsDigit(value);
+                Console.Write(value);
+                Console.Write(' ');
+                Console.WriteLine(digit);
+            }
         }
 
         /// <summary>
@@ -57,9 +65,9 @@ namespace ConsoleCoElaboration
             return false;
         }
 
-        private static bool ConstainsOnlyDigits(String text)
+        public static bool IsCharDigit(char c)
         {
-            return false;
+            return ((c >= '0') && (c <= '9'));
         }
 
         private static bool ConvertToBinaryNumbers(int input)
