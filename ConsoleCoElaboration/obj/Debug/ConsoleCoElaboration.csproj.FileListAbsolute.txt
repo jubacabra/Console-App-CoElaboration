@@ -1,3 +1,4 @@
 c:\users\jubacabra\documents\visual studio 2013\Projects\ConsoleCoElaboration\ConsoleCoElaboration\bin\Debug\ConsoleCoElaboration.exe.config
 c:\users\jubacabra\documents\visual studio 2013\Projects\ConsoleCoElaboration\ConsoleCoElaboration\obj\Debug\ConsoleCoElaboration.csprojResolveAssemblyReference.cache
 C:\Users\Jubacabra\Desktop\New folder (2)\ConsoleCoElaboration\bin\Debug\ConsoleCoElaboration.exe.config
+C:\Users\SAMSUNG\Desktop\collaboration\ConsoleCoElaboration\bin\Debug\ConsoleCoElaboration.exe.config

@@ -30,20 +30,29 @@ namespace ConsoleCoElaboration
         /// <returns></returns>
         private static bool IsPalindrome(String text)
         {
+
         }
+
         /// <summary>
         /// Returns true if input is only letters
         /// </summary>
         /// <param name="text"></param>
         /// <returns></returns>
         private static bool ContainsOnlyLetters(String text)
-
+        {
+        }
 
         private static bool ConstainsOnlyDigits(String text)
+        {
+        }
 
         private static bool ConvertToBinaryNumbers(int input)
+        {
+        }
 
         private static string ConvertToRomanNumbers(String text)
+        {
+        }
     }
 
 }
